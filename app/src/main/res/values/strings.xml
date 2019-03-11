@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="button_text">Ask</string>
+    <string name="haeder_text">Do you really need to buy S10 </string>
 </resources>
